@@ -1,4 +1,3 @@
-# CS573 Data-Mining Project Report
 ![cs_573_project 3 -01](https://user-images.githubusercontent.com/32914284/41630782-ea1c016e-73fe-11e8-975f-f7d0e0773b93.png)
 ![cs_573_project 3 -02](https://user-images.githubusercontent.com/32914284/41630783-ea2db35a-73fe-11e8-9a70-aae3d955f6e1.png)
 ![cs_573_project 3 -03](https://user-images.githubusercontent.com/32914284/41630784-ea403548-73fe-11e8-86fa-322ad8c304cd.png)
