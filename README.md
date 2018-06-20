@@ -1,1 +1,12 @@
-# CS573---Data-Mining
+# CS573 Data-Mining Project Report
+![cs_573_project 3 -01](https://user-images.githubusercontent.com/32914284/41630782-ea1c016e-73fe-11e8-975f-f7d0e0773b93.png)
+![cs_573_project 3 -02](https://user-images.githubusercontent.com/32914284/41630783-ea2db35a-73fe-11e8-9a70-aae3d955f6e1.png)
+![cs_573_project 3 -03](https://user-images.githubusercontent.com/32914284/41630784-ea403548-73fe-11e8-86fa-322ad8c304cd.png)
+![cs_573_project 3 -04](https://user-images.githubusercontent.com/32914284/41630786-ea526c40-73fe-11e8-8dcc-793eb2a75c3c.png)
+![cs_573_project 3 -05](https://user-images.githubusercontent.com/32914284/41630787-ea6af21a-73fe-11e8-8d20-d2fb5e6de9c7.png)
+![cs_573_project 3 -06](https://user-images.githubusercontent.com/32914284/41630788-ea8bd098-73fe-11e8-9ed0-1b0efb39a892.png)
+![cs_573_project 3 -07](https://user-images.githubusercontent.com/32914284/41630789-eab64be8-73fe-11e8-9fee-d78bbf1411d0.png)
+![cs_573_project 3 -08](https://user-images.githubusercontent.com/32914284/41630790-eaf82824-73fe-11e8-9ebb-1661d8a00f25.png)
+![cs_573_project 3 -09](https://user-images.githubusercontent.com/32914284/41630791-eb55c36c-73fe-11e8-8452-6b7408853d1a.png)
+![cs_573_project 3 -10](https://user-images.githubusercontent.com/32914284/41630792-eb8e06dc-73fe-11e8-92de-b29e434e0a46.png)
+![cs_573_project 3 -11](https://user-images.githubusercontent.com/32914284/41630793-eba71000-73fe-11e8-9868-e6d0a354a1fd.png)
